@@ -1,0 +1,27 @@
+{
+  "name": "ai-discord-bot",
+  "version": "1.0.1",
+  "description": "A simple AI powered Discord bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TISnoob/ai-discord-bot.git"
+  },
+  "author": "TISnoob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TISnoob/ai-discord-bot/issues"
+  },
+  "homepage": "https://github.com/TISnoob/ai-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "djs-commander": "^0.0.45",
+    "replicate": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
