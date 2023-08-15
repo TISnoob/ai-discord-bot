@@ -16,8 +16,9 @@ Required -
 Installation -
  1. rename .env.example to .env
  2. Edit .env
- 3. run ```npm i```
- 4. then run ```npm start```
+ 3. run ```node deploy-commands.js```
+ 4. run ```npm i```
+ 5. then run ```npm start```
 
  source codes -
  1. ChatGPT-Discord-Bot by Kevin8675
